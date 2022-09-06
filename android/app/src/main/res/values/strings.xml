@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">interactions</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">W38h2JFKmhIMo6YnnVCW_LZJIutndMPIOdQqJ</string>
 </resources>
