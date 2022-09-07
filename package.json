@@ -14,6 +14,7 @@
     "@react-native-community/netinfo": "^9.3.0",
     "@react-native-picker/picker": "^2.4.4",
     "amazon-cognito-identity-js": "^5.2.10",
+    "appcenter-cli": "^2.11.0",
     "aws-amplify": "^4.3.34",
     "aws-amplify-react-native": "^6.0.5",
     "react": "18.1.0",
