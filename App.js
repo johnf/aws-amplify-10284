@@ -8,6 +8,13 @@
 
 import React from 'react';
 import type {Node} from 'react';
+
+import { Amplify } from 'aws-amplify'
+import awsconfig from './src/aws-exports'
+Amplify.configure(awsconfig)
+
+
+
 import {
   SafeAreaView,
   ScrollView,
